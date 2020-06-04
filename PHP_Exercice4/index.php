@@ -12,7 +12,7 @@
         $tFloat = 3.33333;
         $tBool = TRUE;
 
-        echo "$tString <br> $tInt <br> $tFloat <br> $tBool";
+        echo "$tString<br>$tInt<br>$tFloat<br>$tBool";
     ?>
 </body>
 </html>
